@@ -12,7 +12,7 @@ spotify_redirect_uri = os.getenv("REDIRECT_URI")
 
 
 scope = "playlist-modify-public"
-username = "6h6dz1pffbn7wa61nztzwingt"
+username = #Your username
 
 # auth of spotify
 
